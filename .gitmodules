@@ -1,0 +1,4 @@
+[submodule "gerardpontinoblog/public"]
+	path = gerardpontinoblog/public
+	url = https://github.com/gerardpontino/gerardpontino.github.io
+	branch = main
